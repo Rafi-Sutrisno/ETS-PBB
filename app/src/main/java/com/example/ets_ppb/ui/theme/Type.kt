@@ -1,4 +1,4 @@
-package com.example.tugas_5_ppb.ui.theme
+package com.example.ets_ppb.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package com.example.tugas_5_ppb
+package com.example.`ets-ppb`
 
 import org.junit.Test
 

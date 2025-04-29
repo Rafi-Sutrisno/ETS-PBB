@@ -1,4 +1,4 @@
-package com.example.tugas_5_ppb
+package com.example.`ets-ppb`
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
